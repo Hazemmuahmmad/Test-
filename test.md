@@ -6,21 +6,21 @@
 
 # **Education**
 
- ## College : ###Faculity of engineering Cairo university.
- ## Department : ###systems and biomedical engineering.
+ ## ●**College** : ###Faculity of engineering Cairo university.
+ ## ●**Department** : ###systems and biomedical engineering.
 
 # **Qualifications & skills**
 
 ## **Training** 
 
-###Sysmex multinational Corporation.
+### Sysmex multinational Corporation.
 
 ## **Computer skills** 
 
-###Microsoft Office.
-###programming languages(c,c++,c#).
-###Visual Studio.
-###Arduino
+### Microsoft Office.
+### programming languages(c,c++,c#).
+### Visual Studio.
+### Arduino
 
 ## **Language Skills**
 | Language       | Fluency |
@@ -31,9 +31,9 @@
 
 ## **Interpersonal Skills**
 
-###Team Work Co-operations.
-###Researching.
-###projects.
-###Learning Languages.
+### Team Work Co-operations.
+### Researching.
+### projects.
+### Learning Languages.
 
 
