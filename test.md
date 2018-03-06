@@ -17,10 +17,10 @@
 
 ## **Computer skills** 
 
-### Microsoft Office.
-### programming languages(c,c++,c#).
-### Visual Studio.
-### Arduino
+#### Microsoft Office.
+#### programming languages(c,c++,c#).
+#### Visual Studio.
+#### Arduino
 
 ## **Language Skills**
 | Language       | Fluency |
@@ -31,9 +31,9 @@
 
 ## **Interpersonal Skills**
 
-### Team Work Co-operations.
-### Researching.
-### projects.
-### Learning Languages.
+#### Team Work Co-operations.
+#### Researching.
+#### projects.
+#### Learning Languages.
 
 
